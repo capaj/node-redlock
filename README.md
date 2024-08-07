@@ -2,6 +2,8 @@
 [![Current Version](https://badgen.net/npm/v/redlock)](https://npm.im/redlock)
 [![Supported Node.js Versions](https://badgen.net/npm/node/redlock)](https://npm.im/redlock)
 
+### This is not maintained anymore. Please use this fork [https://github.com/sesamecare/redlock](https://github.com/sesamecare/redlock) instead.
+
 # Redlock
 
 This is a node.js implementation of the [redlock](http://redis.io/topics/distlock) algorithm for distributed redis locks. It provides strong guarantees in both single-redis and multi-redis environments, and provides fault tolerance through use of multiple independent redis instances or clusters.
